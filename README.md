@@ -1,6 +1,7 @@
 
 # Education Portal Project
 This project is an Educational Portal that allows users to add questions, take quizzes, and evaluate their performance. It consists of both frontend and backend components, providing an interactive learning experience.
+
 ![quiz](https://github.com/slgedik/educationPortal-with-react.js-node.js/assets/112625294/7b0fd630-5fab-483b-9f6e-2b42888a59f0)
 ![evaluation](https://github.com/slgedik/educationPortal-with-react.js-node.js/assets/112625294/16e48ac7-61c6-4d9a-a4e8-75dc7048dc51)
 ![addquestion](https://github.com/slgedik/educationPortal-with-react.js-node.js/assets/112625294/1dbda8e4-18c2-483f-a524-e59d839f7005)
