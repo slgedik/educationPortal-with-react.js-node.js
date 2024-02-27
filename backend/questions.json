@@ -1,0 +1,91 @@
+[
+  { "question": "Hangisi bir programlama dili değildir?", "options": ["Java", "C#", "HTML", "Python"], "answer": "HTML" },
+  {
+    "question": "Hangi programlama dili web geliştirme için kullanılmaz?",
+    "options": ["Python", "JavaScript", "HTML", "Java"],
+    "answer": "HTML"
+  },
+  {
+    "question": "Bir döngüde belirli bir işlem kaç kez tekrarlanır?",
+    "options": ["Bir", "İki", "Üç", "Birden Fazla"],
+    "answer": "Birden Fazla"
+  },
+  { "question": "HTML sayfasındaki bir resim nasıl eklenir?", "options": ["<image>", "<picture>", "<img>", "<photo>"], "answer": "<img>" },
+  {
+    "question": "HTML ne anlama gelir?",
+    "options": [
+      "Hypertext Markup Language",
+      "High Text Machine Language",
+      "Hyperlink and Text Markup Language",
+      "Home Tool Markup Language"
+    ],
+    "answer": "Hypertext Markup Language"
+  },
+  {
+    "question": "JavaScript hangi tür bir programlama dilidir?",
+    "options": ["Yüksek Seviye", "Düşük Seviye", "Oyun", "Mantıksal"],
+    "answer": "Yüksek Seviye"
+  },
+  {
+    "question": "Python hangi tür bir programlama dili olarak sınıflandırılır?",
+    "options": ["Yüksek Seviye", "Düşük Seviye", "Oyun", "Mantıksal"],
+    "answer": "Yüksek Seviye"
+  },
+  {
+    "question": "CSS hangi alanla ilgilenir?",
+    "options": ["Veri tabanları", "Grafik tasarım", "Web sayfası biçimlendirme", "Yapay zeka"],
+    "answer": "Web sayfası biçimlendirme"
+  },
+  {
+    "question": "JavaScript nerede çalışır?",
+    "options": ["Sunucuda", "Tarayıcıda", "Kâğıt Üzerinde", "Televizyonda"],
+    "answer": "Tarayıcıda"
+  },
+  {
+    "question": "Java ve JavaScript arasındaki ilişki nedir?",
+    "options": ["Yok", "İkisi de aynıdır", "Birbirinden Bağımsız Dillerdir", "Java, JavaScript'in eski adıdır"],
+    "answer": "Birbirinden Bağımsız Dillerdir"
+  },
+  { "question": "Bir bilgisayarın işletim sistemi hangisidir?", "options": ["Windows", "Photoshop", "Excel", "Word"], "answer": "Windows" },
+  { "question": "Bir bilgisayarın kalıcı belleği hangisidir?", "options": ["RAM", "ROM", "CPU", "SSD"], "answer": "ROM" },
+  { "question": "Aşağıdaki hangisi bir dosya uzantısıdır?", "options": [".jpg", ".dot", ".cpa", ".boo"], "answer": ".jpg" },
+  {
+    "question": "Hangisi bir programlama dilidir?",
+    "options": ["Adobe Photoshop", "Microsoft Word", "C++", "Google Chrome"],
+    "answer": "C++"
+  },
+  { "question": "Hangisi bir veritabanı türü değildir?", "options": ["MySQL", "HTML", "SQLite", "MongoDB"], "answer": "HTML" },
+  {
+    "question": "Hangisi bir programlama dilinin temel unsurlarından biri değildir?",
+    "options": ["Değişkenler", "Fonksiyonlar", "Sözdizimi", "Yüzey"],
+    "answer": "Yüzey"
+  },
+  { "question": "Bir bilgisayarın ana bileşeni hangisidir?", "options": ["Fare", "Klavye", "Monitör", "CPU"], "answer": "CPU" },
+  {
+    "question": "Bir fonksiyonun çağrılması ne anlama gelir?",
+    "options": ["Fonksiyonun tanımlanması", "Fonksiyonun test edilmesi", "Fonksiyonun kullanılması", "Fonksiyonun yok edilmesi"],
+    "answer": "Fonksiyonun kullanılması"
+  },
+  {
+    "question": "CSS3 neyi ifade eder?",
+    "options": ["Yeni bir Nesil CSS", "HTML'in Yeni Bir Versiyonu", "Yeni Bir Programlama Dili", "Müzik Türü"],
+    "answer": "Yeni bir Nesil CSS"
+  },
+  {
+    "question": "Hangisi bir yazılım geliştirme metodu değildir?",
+    "options": ["Sürüm Kontrolü", "Geçiş Metodu", "Test Sürüşü Geliştirme", "Çift Denetleme"],
+    "answer": "Geçiş Metodu"
+  },
+  { "question": "Bir bilgisayarın en temel veri işleme birimi nedir?", "options": ["CPU", "GPU", "RAM", "SSD"], "answer": "CPU" },
+  {
+    "question": "Hangisi bir bilgisayar oyunu geliştirme programıdır?",
+    "options": ["Unity", "Microsoft Word", "Adobe Photoshop", "Excel"],
+    "answer": "Unity"
+  },
+  {
+    "question": "Bir sayfa stilini nasıl belirleyebilirsiniz?",
+    "options": ["HTML ile", "JavaScript ile", "CSS ile", "Python ile"],
+    "answer": "CSS ile"
+  },
+  { "question": "Bir bilgisayarın sabit depolama birimi hangisidir?", "options": ["SSD", "RAM", "GPU", "CPU"], "answer": "SSD" }
+]
